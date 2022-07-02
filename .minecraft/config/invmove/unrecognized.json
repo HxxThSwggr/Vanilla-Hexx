@@ -1,0 +1,17 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "com.wildfire.gui.screen.WildfirePlayerListScreen": true,
+    "com.wildfire.gui.screen.WardrobeBrowserScreen": true,
+    "com.wildfire.gui.screen.WildfireBreastCustomizationScreen": true,
+    "com.wildfire.gui.screen.WildfireCharacterSettingsScreen": true,
+    "net.minecraft.class_4895": true
+  },
+  "hideBackground": {
+    "com.wildfire.gui.screen.WildfirePlayerListScreen": true,
+    "com.wildfire.gui.screen.WardrobeBrowserScreen": true,
+    "com.wildfire.gui.screen.WildfireBreastCustomizationScreen": true,
+    "com.wildfire.gui.screen.WildfireCharacterSettingsScreen": true,
+    "net.minecraft.class_4895": true
+  }
+}
