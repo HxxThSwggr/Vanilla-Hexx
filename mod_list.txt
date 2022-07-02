@@ -55,4 +55,4 @@ Guide
 
 (*)
  1 | 1.19 is available on the Distant Horizons discord.
- 2 | Most things I like in Physic Mod for are in the free version
+ 2 | Most things I like in Physic Mod for are in the free version.
