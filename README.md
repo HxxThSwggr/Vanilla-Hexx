@@ -24,7 +24,7 @@ Includes *return_mods.bat* in the *mods* folder. More below.
 A [Ferium](https://github.com/gorilla-devs/ferium) config with one profile including all the mods, even the ones not yet available for 1.19.
 You can copy the profile to your own Ferium config for easy updating, but dont forget to put in the actual directory behind *"output_dir":* .
 
-Ferium will move any mods (it thinks) it didn't replace to .old folder. You need to move them back every time you *ferium upgrade* with **return_mods.bat**.
+Ferium will move any mods (it thinks) it didn't replace to .old folder. You need to move them back every time you *ferium upgrade* with **return_mods.bat**. Check if it moved some mods' old versions back and delete them.
 
 ## Issues
 A few of the components are incompatible or have issues. I recommend using [MultiMC](https://multimc.org/) where you can disable and enable mods, as well as create multiple instances of Minecraft for tidyness.
