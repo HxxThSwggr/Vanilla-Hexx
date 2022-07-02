@@ -1,0 +1,291 @@
+{
+  "active_profile": 1,
+  "active_modpack": 0,
+  "profiles": [
+    {
+      "name": "Vanilla-Hexx",
+      "output_dir": "!!!! PUT IN PROPER PATH !!!!",
+      "game_version": "1.19",
+      "mod_loader": "Fabric",
+      "mods": [
+        {
+          "name": "3D Skin Layers",
+          "identifier": {
+            "ModrinthProject": "zV5r3pPn"
+          }
+        },
+        {
+          "name": "AppleSkin",
+          "identifier": {
+            "ModrinthProject": "EsAfCjCV"
+          }
+        },
+        {
+          "name": "BackSlot",
+          "identifier": {
+            "CurseForgeProject": 402739
+          }
+        },
+        {
+          "name": "Better Third Person",
+          "identifier": {
+            "CurseForgeProject": 435044
+          }
+        },
+        {
+          "name": "BetterF3",
+          "identifier": {
+            "ModrinthProject": "8shC1gFX"
+          }
+        },
+        {
+          "name": "Blur (Fabric)",
+          "identifier": {
+            "ModrinthProject": "NK39zBp2"
+          }
+        },
+        {
+          "name": "CIT Resewn",
+          "identifier": {
+            "ModrinthProject": "otVJckYQ"
+          }
+        },
+        {
+          "name": "Cloth Config API",
+          "identifier": {
+            "ModrinthProject": "9s6osm5g"
+          }
+        },
+        {
+          "name": "CompleteConfig",
+          "identifier": {
+            "ModrinthProject": "GtqG8z1h"
+          }
+        },
+        {
+          "name": "Continuity",
+          "identifier": {
+            "ModrinthProject": "1IjD5062"
+          }
+        },
+        {
+          "name": "Custom Entity Models",
+          "identifier": {
+            "ModrinthProject": "YOQCucah"
+          }
+        },
+        {
+          "name": "Distant Horizons",
+          "identifier": {
+            "ModrinthProject": "uCdwusMi"
+          }
+        },
+        {
+          "name": "Dynamic Crosshair",
+          "identifier": {
+            "ModrinthProject": "ZcR9weSm"
+          }
+        },
+        {
+          "name": "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)",
+          "identifier": {
+            "ModrinthProject": "mfzaZK3Z"
+          }
+        },
+        {
+          "name": "Enhanced Block Entities",
+          "identifier": {
+            "ModrinthProject": "OVuFYfre"
+          }
+        },
+        {
+          "name": "EntityCulling",
+          "identifier": {
+            "ModrinthProject": "NNAgCjsB"
+          }
+        },
+        {
+          "name": "Extended Clouds",
+          "identifier": {
+            "ModrinthProject": "SRvY3a39"
+          }
+        },
+        {
+          "name": "ExtraSounds",
+          "identifier": {
+            "ModrinthProject": "uPWCQrVL"
+          }
+        },
+        {
+          "name": "Fabric API",
+          "identifier": {
+            "ModrinthProject": "P7dR8mSH"
+          }
+        },
+        {
+          "name": "Falling Leaves",
+          "identifier": {
+            "ModrinthProject": "WhbRG4iK"
+          }
+        },
+        {
+          "name": "FerriteCore",
+          "identifier": {
+            "ModrinthProject": "uXXizFIs"
+          }
+        },
+        {
+          "name": "Immersive Portals",
+          "identifier": {
+            "ModrinthProject": "zJpHMkdD"
+          }
+        },
+        {
+          "name": "Incendium",
+          "identifier": {
+            "CurseForgeProject": 591388
+          }
+        },
+        {
+          "name": "Indium",
+          "identifier": {
+            "ModrinthProject": "Orvt0mRa"
+          }
+        },
+        {
+          "name": "InvMove",
+          "identifier": {
+            "ModrinthProject": "REfW2AEX"
+          }
+        },
+        {
+          "name": "Iris Shaders",
+          "identifier": {
+            "ModrinthProject": "YL57xq9U"
+          }
+        },
+        {
+          "name": "LambdaBetterGrass",
+          "identifier": {
+            "ModrinthProject": "2Uev7LdA"
+          }
+        },
+        {
+          "name": "LambDynamicLights",
+          "identifier": {
+            "ModrinthProject": "yBW8D80W"
+          }
+        },
+        {
+          "name": "LazyDFU",
+          "identifier": {
+            "ModrinthProject": "hvFnDODi"
+          }
+        },
+        {
+          "name": "Lithium",
+          "identifier": {
+            "ModrinthProject": "gvQqBUqZ"
+          }
+        },
+        {
+          "name": "Mod Menu",
+          "identifier": {
+            "ModrinthProject": "mOgUt4GM"
+          }
+        },
+        {
+          "name": "Mouse Wheelie",
+          "identifier": {
+            "ModrinthProject": "u5Ic2U1u"
+          }
+        },
+        {
+          "name": "Not Enough Animations",
+          "identifier": {
+            "ModrinthProject": "MPCX6s5C"
+          }
+        },
+        {
+          "name": "Pehkui",
+          "identifier": {
+            "ModrinthProject": "t5W7Jfwy"
+          }
+        },
+        {
+          "name": "Nullscape",
+          "identifier": {
+            "CurseForgeProject": 570354
+          }
+        },
+        {
+          "name": "Presence Footsteps",
+          "identifier": {
+            "ModrinthProject": "rcTfTZr3"
+          }
+        },
+        {
+          "name": "Raised",
+          "identifier": {
+            "ModrinthProject": "nCQRBEiR"
+          }
+        },
+        {
+          "name": "Reese's Sodium Options",
+          "identifier": {
+            "ModrinthProject": "Bh37bMuy"
+          }
+        },
+        {
+          "name": "Roundaround's Pickup Notifications",
+          "identifier": {
+            "ModrinthProject": "wWiJfmyy"
+          }
+        },
+        {
+          "name": "Sodium",
+          "identifier": {
+            "ModrinthProject": "AANobbMI"
+          }
+        },
+        {
+          "name": "Sodium Extra",
+          "identifier": {
+            "ModrinthProject": "PtjYWJkn"
+          }
+        },
+        {
+          "name": "Starlight (Fabric)",
+          "identifier": {
+            "ModrinthProject": "H8CaAYZC"
+          }
+        },
+        {
+          "name": "Terralith",
+          "identifier": {
+            "CurseForgeProject": 513688
+          }
+        },
+        {
+          "name": "Wildfire's Female Gender Mod - Fabric & Forge",
+          "identifier": {
+            "ModrinthProject": "bcOsQHnC"
+          }
+        },
+        {
+          "name": "Xaero's Minimap",
+          "identifier": {
+            "CurseForgeProject": 263420
+          }
+        },
+        {
+          "name": "Xaero's World Map",
+          "identifier": {
+            "CurseForgeProject": 317780
+          }
+        }
+      ]
+    }
+  ],
+  "modpacks": []
+}
