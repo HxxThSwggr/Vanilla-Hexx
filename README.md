@@ -17,6 +17,8 @@ All (two) shaderpacks and their (one) download page.
 ### | .minecraft
 A .minecraft folder with the mods' configs and shaderpacks' settings.
 
+Includes *return_mods.bat* in the *mods* folder. More below.
+
 ### | Ferium
 #### ferium_config.json
 A [Ferium](https://github.com/gorilla-devs/ferium) config with one profile including all the mods, even the ones not yet available for 1.19.
