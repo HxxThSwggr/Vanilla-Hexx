@@ -1,0 +1,23 @@
+BetterVanillaBuilding						https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding
+BetterVanillaBuilding Overlays				https://www.curseforge.com/minecraft/texture-packs/bvb-overlays
+Stefan's armors 'N' items					https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding-custom-item-edition
+xali's Enchanted Books						https://www.curseforge.com/minecraft/texture-packs/xalis-enchanted-books
+xali's Potions								https://www.curseforge.com/minecraft/texture-packs/xalis-potions
+
+Most are not updated to 1.19, but I haven't noticed any bugs.
+
+
+Order:
+	(Includes the mods' things. I believe some orders dont work becasue of Continuity.)
+
+	Illuminations/pixelaccurate
+	minecraft/physicsmod
+	continuity/glass_pane_culling_fix
+	continuity/default
+	xali's Enchanted Books
+	xali's Potions
+	BvB Overlays
+	Stefan's armors 'N' items
+	BetterVanillaBuilding
+	Fabric Mods
+	vanilla
