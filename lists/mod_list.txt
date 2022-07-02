@@ -1,0 +1,58 @@
+3D Skin Layers								https://modrinth.com/mod/zV5r3pPn
+AppleSkin									https://modrinth.com/mod/EsAfCjCV
+BackSlot									https://www.curseforge.com/minecraft/mc-mods/backslot/files
+Better F3									https://modrinth.com/mod/8shC1gFX
+Better Third Person							https://modrinth.com/mod/G1s2WpNo
+Blur										https://modrinth.com/mod/NK39zBp2
+CIT Resewn									https://modrinth.com/mod/otVJckYQ
+Cloth-config								https://modrinth.com/mod/9s6osm5g
+CompleteConfig								https://modrinth.com/mod/GtqG8z1h
+Continuity									https://modrinth.com/mod/1IjD5062
+Custom Entity Models						https://modrinth.com/mod/YOQCucah
+/ Distant Horizons (*1)						https://modrinth.com/mod/uCdwusMi
+Dynamic Crosshair							https://modrinth.com/mod/ZcR9weSm
+Ears										https://modrinth.com/mod/mfzaZK3Z
+× Effective									https://www.curseforge.com/minecraft/mc-mods/effective
+Enhanced Block Entities						https://modrinth.com/mod/OVuFYfre
+EntityCulling								https://modrinth.com/mod/NNAgCjsB
+Extended Clouds								https://modrinth.com/mod/SRvY3a39
+ExtraSounds									https://modrinth.com/mod/uPWCQrVL
+Falling Leaves								https://modrinth.com/mod/WhbRG4iK
+FerriteCore									https://modrinth.com/mod/uXXizFIs
+× First-person Model						https://www.curseforge.com/minecraft/mc-mods/first-person-model
+× Illuminations								https://www.curseforge.com/minecraft/mc-mods/illuminations
+Immersive Portals							https://modrinth.com/mod/zJpHMkdD
+/ Incendium									https://www.curseforge.com/minecraft/mc-mods/incendium
+Indium										https://modrinth.com/mod/Orvt0mRa
+InvMove										https://modrinth.com/mod/REfW2AEX
+Iris Shaders								https://modrinth.com/mod/YL57xq9U
+LambdaBetterGrass							https://modrinth.com/mod/2Uev7LdA
+LambDynamicLights							https://modrinth.com/mod/yBW8D80W
+LazyDFU										https://modrinth.com/mod/hvFnDODi
+Lithium										https://modrinth.com/mod/gvQqBUqZ
+Mod Menu									https://modrinth.com/mod/mOgUt4GM
+Mouse Wheelie								https://modrinth.com/mod/u5Ic2U1u
+Not Enough Animations						https://modrinth.com/mod/MPCX6s5C
+/ Nullscape									https://www.curseforge.com/minecraft/mc-mods/nullscape-end-reborn
+Pehkui										https://modrinth.com/mod/t5W7Jfwy
+× Physics Mod (*2)							https://minecraftphysicsmod.com/download
+Presence Footsteps							https://modrinth.com/mod/rcTfTZr3
+Raised										https://modrinth.com/mod/nCQRBEiR
+Reese's Sodium Options						https://modrinth.com/mod/Bh37bMuy
+/ Resounding								https://modrinth.com/mod/UwbKhrqq
+Roundaround's Pickup Notifications			https://modrinth.com/mod/wWiJfmyy
+Sodium										https://modrinth.com/mod/AANobbMI
+Sodium Extra								https://modrinth.com/mod/PtjYWJkn
+Starlight									https://modrinth.com/mod/H8CaAYZC
+Terralith									https://www.curseforge.com/minecraft/mc-mods/terralith
+Wildfire's Female Gender Mod				https://modrinth.com/mod/bcOsQHnC
+Xaero's Minimap								https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+Xaero's World Map							https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
+
+Guide
+ / | no 1.19 version yet
+ × | can't be automatically downloaded using Ferium
+
+(*)
+ 1 | 1.19 is available on the Distant Horizons discord.
+ 2 | Most things I like in Physic Mod for are in the free version
