@@ -1,5 +1,5 @@
 # #'s Lovely Vanilla Modpack
-A minecraft modpack of mods I play with. Nothing game changing in the sense of the game's content. Mainly optimization and make-up.
+A minecraft modpack of mods, resource- and shader-packs I play with. Nothing game changing in the sense of the game's content. Mainly optimization and make-up.
 
 ## Lists
 #### mod_list.txt
